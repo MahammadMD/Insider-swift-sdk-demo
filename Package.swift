@@ -12,7 +12,7 @@ let package = Package(
             targets: ["InsiderSDKModule"]),
     ],
     dependencies: [
-        .package(url: "git@github.com:MahammadMD/Insider-swift-sdk-demo.git", .branch("master") )
+//        .package(url: "git@github.com:MahammadMD/Insider-swift-sdk-demo.git", .branch("master") )
         // Dependencies declare other packages that this package depends on.
         // .package(url: /* package url */, from: "1.0.0"),
     ],
